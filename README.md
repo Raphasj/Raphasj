@@ -23,6 +23,6 @@ Entre em contato comigo:
 
 <div>
 <a href="https://github.com/Raphasj">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Raphasj&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Raphasj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphasj&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphasj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
